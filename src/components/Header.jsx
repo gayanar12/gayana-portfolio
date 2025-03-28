@@ -5,8 +5,8 @@ function Header() {
         <header style={styles.header}>
             <img src={profileImg} alt="Profile" style={styles.img} />
             <div>
-                <h1 style={styles.title}>Naveen PN</h1>
-                <p style={styles.subtitle}>Corporate Trainer | Data Engineer | Mentor</p>
+                <h1 style={styles.title}>Gayana R</h1>
+                <p style={styles.subtitle}>full stack developer</p>
                 <nav style={styles.nav}>
                     <a href="#about" style={styles.link}>About</a>
                     <a href="#projects" style={styles.link}>Projects</a>
@@ -57,3 +57,4 @@ const styles = {
 };
 
 export default Header;
+
